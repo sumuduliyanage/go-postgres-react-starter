@@ -1,4 +1,4 @@
-export const apiURl = 'http://localhost:8081'
+export const apiURl = 'https://go-postgres-react-starter.onrender.com'
 
 export const Endpoints = {
   login: `${apiURl}/api/login`,

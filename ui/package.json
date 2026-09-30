@@ -32,7 +32,6 @@
   "bugs": {
     "url": "https://github.com/IsraelAdura/go-postgres-jwt-react-starter"
   },
-  "homepage": "https://github.com/IsraelAdura/go-postgres-jwt-react-starter#readme",
   "devDependencies": {
     "eslint": "^7.32.0",
     "eslint-config-standard": "^16.0.3",
