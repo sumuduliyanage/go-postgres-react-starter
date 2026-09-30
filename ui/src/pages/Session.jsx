@@ -61,7 +61,7 @@ const Session = ({ history }) => {
           <div>
             {user && (
               <div>
-                <h1>Welcome, {user && user.name}</h1>
+                <h1>Hello, {user && user.name}! Welcome to COSC345 Mentoring Session!</h1>
                 <p>{user && user.email}</p>
                 <br />
                 <button onClick={logout}>logout</button>
