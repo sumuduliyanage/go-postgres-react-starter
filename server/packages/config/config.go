@@ -30,7 +30,7 @@ var Config = ConfigType{
 	SERVER_PORT:          "",
 	JWT_KEY:              "",
 	RUN_MIGRATION:        "",
-	POSTGRES_SERVER_HOST: "localhost",
+	POSTGRES_SERVER_HOST: "",
 }
 
 func InitConfig() {
